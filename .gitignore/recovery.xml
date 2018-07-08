@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="rn2-twrp" fetch="https://github.com/rn2-twrp"/>
+
+  <project path="device/xiaomi/hermes" name="android_device_xiaomi_hermes" revision="android-5.1" remote="rn2-twrp"/>
+</manifest>
