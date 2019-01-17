@@ -3,4 +3,5 @@
   <remote name="rn2-twrp" fetch="https://github.com/rn2-twrp"/>
 
   <project path="device/xiaomi/hermes" name="android_device_xiaomi_hermes" revision="android-5.1" remote="rn2-twrp"/>
+  <project path="kernel/xiaomi/mt6795" name="android_kernel_xiaomi_mt6795" revision="miui-5.0.2" remote="rn2-twrp"/>
 </manifest>
